@@ -1,0 +1,79 @@
+@font-face {
+	font-family: 'MyFont'; 
+	src: url('ofont.ru_Anticva.ttf'); 
+    font-family: 'MyFont2'; 
+	src: url('ofont.ru_Miama Nueva.ttf'); 
+}
+@font-face {
+	font-family: 'MyFont3'; 
+	src: url('ofont.ru_Batang.ttf'); 
+}
+
+body{
+    background-color: rgb(252, 252, 243);
+}
+
+#b{
+    background-color: rgb(239, 191, 187);
+}
+.container {
+    max-width: 1200px;
+
+}
+#col1{
+    min-height: 700px;
+    max-width: 600px;
+    background-size: cover;
+}
+#col14{
+    background-image: url('photo_2025-03-08_15-03-47.jpg');
+    background-size: cover;
+    min-height: 300px;
+}
+
+#im1{
+    max-width: 100px;
+}
+#im2{
+    max-width: 50px;
+}
+
+h1 {
+    font-family: 'MyFont', fallback_fonts;
+}
+h2 {
+    font-family: 'MyFont', fallback_fonts;
+}
+h6 {
+    font-family: 'MyFont', fallback_fonts;
+}
+
+#h31{
+    font-family: 'MyFont2', fallback_fonts;
+}
+#h32{
+    font-family: 'MyFont2', fallback_fonts;
+}
+
+#h33{
+    font-family: 'MyFont2', fallback_fonts;
+    margin-top: 60px;
+    margin-right: 60%;
+}
+
+#colte{
+    margin-bottom: 40px;
+}
+
+h5{
+    font-family: 'MyFont3'; 
+    src: url('ofont.ru_Ebbe.ttf'); 
+}
+h4{
+    font-family: 'MyFont3'; 
+    src: url('ofont.ru_Ebbe.ttf'); 
+}
+
+#im3{
+    max-width: 100px;
+}
