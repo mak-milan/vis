@@ -21,7 +21,9 @@ body{
 
 }
 #col1{
-    min-height: 600px;
+	
+    min-height: 100px;
+    min-width: 300px;
     background-size: cover;
 }
 #col14{
